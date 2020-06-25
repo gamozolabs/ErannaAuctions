@@ -1,0 +1,7 @@
+## Interface: 11304
+## Title: Eranna Auctions
+## Author: Eranna
+## Version: 0.0.1
+## SavedVariables: AuctionData, ItemCache, Craftables, ItemTooltips, ItemScan, ItemScanLast
+
+eranna_auctions.xml
